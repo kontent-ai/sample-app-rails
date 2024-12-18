@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This sample app relies on the Dancing Goat project, which is no longer available for creation in Kontent.ai.
+>
+> If you still wish to use this project, you can import the Dancing Goat project using the [Data Ops](https://github.com/kontent-ai/data-ops) tool by following the instructions provided in our [Dancing Goat repository](https://github.com/kontent-ai-bot/dancing-goat).
+
 # Kontent.ai Rails Sample Application
 
 [![Kontent.ai Discord](https://img.shields.io/discord/821885171984891914?color=%237289DA&label=Kontent%20Discord&logo=discord)](https://discord.gg/SKCxwPtevJ) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kontent-ai)
